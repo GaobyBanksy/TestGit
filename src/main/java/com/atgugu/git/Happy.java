@@ -6,6 +6,10 @@ public class Happy {
 		
 		System.out.println("right ...");
 		System.out.println("right (actually I am from TestGit local folder, not TestGit2 local folder)...");
+<<<<<<< HEAD
+=======
+		System.out.println("hot fix ...");
+>>>>>>> refs/heads/hot_fix
 
 	}
 	
