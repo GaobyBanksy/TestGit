@@ -3,11 +3,10 @@ package com.atgugu.git;
 public class Happy {
 	
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		System.out.println("right ...");
-=======
-		System.out.println("left ...");
->>>>>>> branch 'master' of https://github.com/GaobyBanksy/TestGit.git
+
+		System.out.println("right (actually I am from TestGit local folder, not TestGit2 local folder)...");
+
+
 	}
 	
 }
