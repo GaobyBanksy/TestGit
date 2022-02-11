@@ -1,7 +1,9 @@
 package com.atgugu.git;
 
 public class Happy {
-	public static void main(string[] args) {
-		System.out.println("Test ...");
+	
+	public static void main(String[] args) {
+		System.out.println("right ...");
 	}
+	
 }
